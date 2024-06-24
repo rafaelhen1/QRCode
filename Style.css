@@ -1,0 +1,43 @@
+
+
+* {
+  background-color: hsl(212, 45%, 89%);
+  font-family: Outfit;
+}
+
+html {
+  font-size: 62,5%;
+  box-sizing: border-box;
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+.box {
+  width: 25rem;
+  text-align: center;
+  margin: 8% 35%;
+  padding: 1% 0.5%;
+  background-color: white;
+  box-shadow: 0rem 0rem 2.5rem 0.01rem rgba(0, 0, 0, 0.452);
+  border-radius: 1.5rem;
+}
+
+img{
+  width: 24rem;
+  border-radius: 1.5rem;
+}
+
+h1,
+p,
+b {
+  background-color: white;
+  display: inline-block;
+  padding-left: 1%;
+  padding-right: 1%;
+  box-sizing: border-box;
+  border: 0%;
+}
+
+
